@@ -15,7 +15,7 @@
     "cross-env": "^5.1",
     "dropzone": "^5.5.1",
     "font-awesome": "^4.7.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-util": "^3.0.8",
     "jquery": "^3.2",
     "laravel-elixir-vue": "^0.1.8",
